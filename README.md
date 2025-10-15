@@ -7,7 +7,7 @@ We'd like you to write a search algorithm that will allow renters to find locati
 1. Accepts a request like:
 
    ```bash
-   time curl -X POST "https://qf11yvwcjc.execute-api.us-east-2.amazonaws.com/default/neighborAssessmentLambda" \
+   time curl -X POST "https://censored.amazonaws.com/default/neighborAssessmentLambda" \
        -H "Content-Type: application/json" \
        -d '[
                {
